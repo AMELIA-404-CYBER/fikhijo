@@ -13,7 +13,7 @@
 - `rm -rf fikhijo`
 - `git clone https://github.com/AMELIA-404-CYBER/fikhijo`
 - `cd fikhijo`
-- `python updatefik.py`
+- `python fikwork.py`
      
 
  ```This Tools is Free Enjoy ```</br>
